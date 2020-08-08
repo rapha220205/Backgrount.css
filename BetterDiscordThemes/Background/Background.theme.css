@@ -1,6 +1,6 @@
 //META{"name":"Background","description":"Background Classique pour Discord","author":"Rapha2202","version":"1.0.5"}*//{}
 
-@import url(https://github.com/rapha220205/Themes/blob/master/Background.css);
+@import url(https://github.com/rapha220205/Themes/blob/master/BetterDiscordThemes/Background/Background.css);
 
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
